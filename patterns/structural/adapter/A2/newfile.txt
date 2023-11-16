@@ -1,0 +1,5 @@
+#Written By FileProperties
+#Sun Oct 15 23:40:47 KST 2023
+depth=32
+width=1024
+height=512
