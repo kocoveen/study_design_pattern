@@ -1,4 +1,0 @@
-gildong@example.com=Hong Gil-dong
-lavigne@example.com=Avril lavigne
-dojun@example.com=dojun
-alice@example.com=Alice
